@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.com/utkarshp21/swe1-app.svg?branch=continuous-integration)](https://travis-ci.com/utkarshp21/swe1-app)
+[![Coverage Status](https://coveralls.io/repos/github/utkarshp21/swe1-app/badge.svg?branch=continuous-integration)](https://coveralls.io/github/utkarshp21/swe1-app?branch=continuous-integration)
